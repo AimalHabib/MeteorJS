@@ -1,0 +1,18 @@
+body {
+  padding: 10px;
+  font-family: sans-serif;
+}
+
+#main
+{
+  line-height: 400px;
+  text-align:left; 
+  vertical-align:top;
+}
+
+#frm
+{
+  display: inline-block;
+  vertical-align: top;
+  line-height: 14px; 
+}
